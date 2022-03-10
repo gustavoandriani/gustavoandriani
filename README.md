@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gustavo Andriani
 
-- 🔭 Hoje ainda não trabalho com desenvolvimento.
+"A chave para o sucesso é a persistência."
+
 - 🌱 Estou estudando Bootstrap.
 - 😄 Pronomes: ele/dele
 
