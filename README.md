@@ -3,7 +3,6 @@
 "A chave para o sucesso é a persistência."
 
 - 🌱 Estou estudando JavaScript.
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="http://github.com/gustavoandriani"></a>
