@@ -2,7 +2,7 @@
 
 "A chave para o sucesso é a persistência."
 
-- 🌱 Estou estudando Bootstrap.
+- 🌱 Estou estudando JavaScript.
 - 😄 Pronomes: ele/dele
 
 <div>
