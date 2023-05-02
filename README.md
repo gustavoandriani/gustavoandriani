@@ -2,7 +2,7 @@
 
 "A chave para o sucesso é a persistência."
 
-- 🌱 Estou estudando JavaScript.
+- 🌱 Estou estudando Python/Django.
 
 <div>
   <a href="http://github.com/gustavoandriani"></a>
