@@ -2,7 +2,7 @@
 
 "A chave para o sucesso é a persistência."
 
-- 🌱 Aprendendo NextJS.
+- 🌱 Aprendendo Typescript.
 
 <div>
   <a href="http://github.com/gustavoandriani"></a>
