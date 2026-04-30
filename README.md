@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandriani&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="left" alt="React" height="30" width="fit-content" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="left" alt="TypeScript" height="30" width="fit-content" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>         
   <img align="left" alt="JavaScript" height="30" width="fit-content" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
