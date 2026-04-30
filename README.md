@@ -20,7 +20,9 @@
   <img align="left" alt="CSS3" height="30" width="fit-content" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img align="left" alt="Bootstrap" height="30" width="fit-content" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </div>
-  
+
+<br/>
+
 <div>
   <a href="https://www.instagram.com/gustavo.andriani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavo.joseandriani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
